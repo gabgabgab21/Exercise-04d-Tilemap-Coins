@@ -24,4 +24,4 @@ None
 
 ## Created by 
 
-Jason Francis
+Gabby Thomas
